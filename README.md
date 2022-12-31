@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Major
 ----------------------
 
-My name is Imad Siddiqui. I am a student at the University of Texas at Dallas. I have been learning to code for 5 years and am learning something new everyday. I am proficient in Java, C++, Python, HTML, and JavaScript. I am experienced in Full-stack web development and am currently learning AI and ML.
+My name is Imad Siddiqui. I am a student at the University of Texas at Dallas. I have been learning to code for 5 years and am learning something new everyday. I am proficient in Java, C++, Python, HTML, and JavaScript. I am experienced in Full-stack web development and am currently exploring the field of data science.
 
 * 🌍  I'm based in Houston
 * ✉️  You can contact me at [imadsiddiqui86@gmail.com](mailto:imadsiddiqui86@gmail.com)
